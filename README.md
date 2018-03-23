@@ -9,4 +9,4 @@
 - [Good introduction to Serverless Apps with Node and Claudia.js](https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35)
 - [Serverless development with Node.js, AWS Lambda and MongoDB Atlas](https://www.mongodb.com/blog/post/serverless-development-with-nodejs-aws-lambda-mongodb-atlas)
 - [How to operate reliable AWS Lambda applications in production](https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/)
-
+- [AWS Lambda cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet)
