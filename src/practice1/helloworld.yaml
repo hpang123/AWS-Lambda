@@ -11,6 +11,6 @@ Resources:
       Description: A starter AWS Lambda function.
       MemorySize: 128
       Timeout: 3
-      Role: 'arn:aws:iam::160089550261:role/lambda_basic_execution'
+      Role: 'arn:aws:iam::xxxx:role/lambda_basic_execution'
       Tags:
         'lambda-console:blueprint': hello-world
