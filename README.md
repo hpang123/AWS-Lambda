@@ -10,3 +10,4 @@
 - [Serverless development with Node.js, AWS Lambda and MongoDB Atlas](https://www.mongodb.com/blog/post/serverless-development-with-nodejs-aws-lambda-mongodb-atlas)
 - [How to operate reliable AWS Lambda applications in production](https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/)
 - [AWS Lambda cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet)
+- [Build, deploy, and manage AWS Lambda functions with Apex](https://github.com/apex/apex)
