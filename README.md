@@ -11,3 +11,4 @@
 - [How to operate reliable AWS Lambda applications in production](https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/)
 - [AWS Lambda cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet)
 - [Build, deploy, and manage AWS Lambda functions with Apex](https://github.com/apex/apex)
+- [Deploy Node.js projects to AWS Lambda easily with Claudia](https://claudiajs.com/tutorials/index.html)
