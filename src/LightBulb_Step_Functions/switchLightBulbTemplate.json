@@ -1,0 +1,39 @@
+{
+	"Comment": "Change Power State of my light bulbs",
+	"StartAt": "SwitchState",
+	"States": {
+		"SwitchState": {
+			"Choices": [
+			    {
+			    	"Next": "OnSwitch",
+			    	"StringEquals": "on",
+			    	"Variable": "$.onoff"
+			    },
+			    {
+			    	"Next": "OffSwitch",
+			    	"StringEquals": "off",
+			    	"Variable": "$.onoff"
+			    }
+			  ],
+			  "Default": "DefaultState",
+			  "Type": "Choice"
+		},
+		
+		"DefaultState": {
+		"Cause": "No Matches!",
+		"Type": "Fail"
+		},
+		
+		"OffSwitch": {
+			"End": true,
+			"Resource": "arn:aws:lambda:us-east-2:xxxxx:function:switchOff",
+			"Type": "Task"
+		},
+		
+		"OnSwitch": {
+			"End": true,
+			"Resource": "arn:aws:lambda:us-east-2:xxxxx:function:switchOn",
+			"Type": "Task"
+		}
+	}
+}
