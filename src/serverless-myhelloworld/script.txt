@@ -1,0 +1,6 @@
+npm install -g serverless
+sls --help
+
+sls create --template "hello-world"
+
+serverless deploy --verbose
