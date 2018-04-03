@@ -14,3 +14,8 @@
 - [Deploy Node.js projects to AWS Lambda easily with Claudia](https://claudiajs.com/tutorials/index.html)
 - [Serverless Framework](https://github.com/serverless/serverless)
 - [Unit Tests for AWS Lambda Functions Using Node.js](https://github.com/vandium-io/lambda-tester)
+- [Examples of How to Use AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/use-cases.html)
+- [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)
+- [Serverless Reference Architecture: Mobile Backend](https://github.com/aws-samples/lambda-refarch-mobilebackend)
+- [Serverless Reference Architecture: Real-time File Processing](https://github.com/aws-samples/lambda-refarch-fileprocessing)
+- [Serverless Reference Architecture: Real-time Stream Processing](https://github.com/aws-samples/lambda-refarch-streamprocessing)
